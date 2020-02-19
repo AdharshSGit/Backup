@@ -1,0 +1,6 @@
+C:\Users\adharsh.s\Desktop\filesharing\client\bin\Debug\client.exe.config
+C:\Users\adharsh.s\Desktop\filesharing\client\bin\Debug\client.exe
+C:\Users\adharsh.s\Desktop\filesharing\client\bin\Debug\client.pdb
+C:\Users\adharsh.s\Desktop\filesharing\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\adharsh.s\Desktop\filesharing\client\obj\Debug\client.exe
+C:\Users\adharsh.s\Desktop\filesharing\client\obj\Debug\client.pdb

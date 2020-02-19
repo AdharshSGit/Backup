@@ -1,0 +1,6 @@
+C:\Users\adharsh.s\Desktop\filesharing\server\bin\Debug\server.exe.config
+C:\Users\adharsh.s\Desktop\filesharing\server\bin\Debug\server.exe
+C:\Users\adharsh.s\Desktop\filesharing\server\bin\Debug\server.pdb
+C:\Users\adharsh.s\Desktop\filesharing\server\obj\Debug\server.exe
+C:\Users\adharsh.s\Desktop\filesharing\server\obj\Debug\server.pdb
+C:\Users\adharsh.s\Desktop\filesharing\server\obj\Debug\server.csprojAssemblyReference.cache
